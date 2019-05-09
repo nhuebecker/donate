@@ -32,16 +32,16 @@ function Donate() {
               </li>
             </ul>
             <p>You can donate by using either of the platforms below or, if you prefer to use something else, by sending me a text and we can figure something out!</p>
-            <a href={'https://paypal.me/nhuebecker'} title="Styles and documentation"
+            <a href={'https://paypal.me/nhuebecker'} title="PayPal"
               bg='dark-blue' color='white' borderRadius={2} mt={2} mx={2} py={3} px={4} textStyle='none' fontSize={[1]} fontWeight={700}>
               PayPal
             </a>
-            <a href='https://venmo.com/nheubecker' title="Styles and documentation"
-              bg='light-blue' color='white' borderRadius={2} mt={2} mx={2} py={3} px={4} textStyle='none' fontSize={[1]} fontWeight={700}>
-              Venmo
-            </a>
-            <a href='sms://6784916062' title="Styles and documentation"
+            <a href='https://cash.app/$nhuebecker' title="Cash App"
               bg='green' color='white' borderRadius={2} mt={2} mx={2} py={3} px={4} textStyle='none' fontSize={[1]} fontWeight={700}>
+              Cash App
+            </a>
+            <a href='sms://6784916062' title="Text Nik!"
+              bg='dark-green' color='white' borderRadius={2} mt={2} mx={2} py={3} px={4} textStyle='none' fontSize={[1]} fontWeight={700}>
               Text Me!
             </a>
           </div>
