@@ -35,7 +35,7 @@ const A = styled('a', { shouldForwardProp })(
   borderRadius,
   {
     boxSizing: "border-box",
-    textDecoration: "none",
+    textDecorationStyle: "dashed",
     ":hover": {
       cursor: "pointer"
     }
